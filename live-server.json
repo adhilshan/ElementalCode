@@ -1,0 +1,10 @@
+{
+    "port": 8800,
+    "host": "localhost",
+    "root": "/",
+    "file": "index.html",
+    "wait": 1000,
+    "mount": [],
+    "logLevel": 2
+  }
+  
